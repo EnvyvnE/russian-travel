@@ -11,3 +11,8 @@
     padding: 0;
     align-self: end;
 }
+@media screen and (max-width:1024px){
+    .place__title{
+        max-width:440px;
+    }
+}

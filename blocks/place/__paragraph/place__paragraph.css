@@ -14,3 +14,9 @@
     grid-area: paragraph-second;
    
 }
+
+@media screen and (max-width:1024px){
+ .place__paragraph{
+     max-width:456px;
+ }   
+}
