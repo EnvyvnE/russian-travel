@@ -6,10 +6,7 @@
     font-size: 24px;
     line-height: 28px;
     cursor:url('../../../images/cursor-pointer.png'),pointer;
-    
-    
 }
 .header__lang-link:hover{
     text-decoration: underline;
-    
 }
