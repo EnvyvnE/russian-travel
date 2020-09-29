@@ -1,0 +1,11 @@
+.cover__background{
+    background: url('../../../images/__background.jpg') no-repeat;
+    position: absolute;
+    object-fit: contain;
+    object-position: top left;
+    top: 0;
+    right: 0;
+    left: 48px;
+    bottom: 0;
+    margin: 0 auto;
+    }

@@ -1,0 +1,7 @@
+.cover{
+    position: relative;
+    margin: 0 auto 92px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}   
