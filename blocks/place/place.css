@@ -17,14 +17,14 @@
   }
 }
 
-@media screen and (min-width:320px) and (max-width:767px){
+@media screen and (min-width:320px) and (max-width:767px) {
   .place {
     column-gap: 32px;
     grid-template-areas:
-    "heading"
-    "image"
-    "paragraph"
-    "paragraph-second";
+      "heading"
+      "image"
+      "paragraph"
+      "paragraph-second";
 
   }
 }

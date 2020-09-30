@@ -1,4 +1,4 @@
-.cover__background{
+.cover__background {
     background: url('../../../images/__background.jpg') no-repeat center;
     position: absolute;
     top: 0;
@@ -6,4 +6,4 @@
     left: 0;
     bottom: 0;
     margin: 0 auto;
-    }
+}

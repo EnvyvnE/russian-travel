@@ -1,4 +1,4 @@
-header{
+header {
     max-width: 1184px;
     margin: 0 auto;
     position: relative;
@@ -6,6 +6,5 @@ header{
     justify-content: flex-end;
     align-items: flex-end;
 }
-@media screen and (min-width:320px) and (max-width:767px){
-    
-}
+
+@media screen and (min-width:320px) and (max-width:767px) {}
