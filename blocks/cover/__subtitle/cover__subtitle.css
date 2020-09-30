@@ -3,12 +3,14 @@
     padding: 0;
     max-width: 360px;
     font-family: Inter;
-    font-size: 18px;
     font-style: normal;
-    font-weight: 400;
+    font-weight: normal;
+    font-size: 18px;
     line-height: 22px;
-    color: #fff;
+    /* or 122% */
+    
     text-align: center;
+    color: #fff;   
     position: relative;
     z-index: 2;
 }
