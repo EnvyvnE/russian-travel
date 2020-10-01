@@ -12,3 +12,7 @@ line-height: 22px;
 text-decoration-line: underline;
     cursor: url('../../../images/cursor-pointer.png'), pointer;
 }
+
+.website__link:hover {
+    opacity: .8;
+}

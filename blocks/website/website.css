@@ -1,4 +1,5 @@
 .website {
+    max-width: 456px;
     grid-area: website;
     margin: 0;
     padding: 0;
