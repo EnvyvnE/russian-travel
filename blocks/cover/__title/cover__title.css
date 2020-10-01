@@ -17,10 +17,14 @@
 @media screen and (min-width:320px) and (max-width:767px) {
     .cover__title {
         font-family: 'Inter', 'Arial', sans-serif;
-        font-size: 32px;
         font-style: normal;
         font-weight: 900;
+        font-size: 32px;
         line-height: 35px;
+        /* or 109% */
+        
+        text-align: center;
+        
         max-width: 288px;
     }
 }
